@@ -7,6 +7,6 @@ You just need a **Git clone** that will have the *first* file inside to learn `F
 - Table, for two-dimensional table data
 - Positioned, for explicit position of an element
 ---
-Start Coding!
+Start Coding! <br>
 ![Coding crazy gif](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
 
