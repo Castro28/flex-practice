@@ -9,4 +9,3 @@ You just need a **Git clone** that will have the *first* file inside to learn `F
 ---
 Start Coding! <br>
 ![Coding crazy gif](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
-
