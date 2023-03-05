@@ -4,6 +4,34 @@
     box-sizing: border-box;
 }
 
-body {
+body{
+    background-color: rgb(216, 134, 233);
+}
 
+header {
+    background-color: rgb(55, 55, 243);
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: start;
+}
+
+section header{
+    flex: 1;
+}
+
+
+.windows-section{
+    align-self: center;
+}
+
+.linux-section{
+    align-self: center;
+}
+
+.macos-section{
+    align-self: center;
 }
