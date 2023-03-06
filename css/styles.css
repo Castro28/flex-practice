@@ -9,29 +9,54 @@ body{
 }
 
 header {
-    background-color: rgb(55, 55, 243);
+    height: 300px;
+    background-color: rgb(110, 110, 195);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 article{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding: 20px;
-    align-items: start;
+    align-items: start;}
+
+section {
+    margin-top: 10px;
+
 }
 
-section header{
-    flex: 1;
+.summary {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .summary h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .summary p {
+    font-size: 16px;
+  }  
+
+.wrap {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 2px 20px;
+}
+
+#operatng-systems{
+    border: 1px solid #fff;
 }
 
 
-.windows-section{
-    align-self: center;
-}
 
-.linux-section{
-    align-self: center;
-}
+footer {
+    display: flex;
+    justify-content: space-between;
 
-.macos-section{
-    align-self: center;
 }
